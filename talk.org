@@ -39,11 +39,11 @@ VSCode, Electron, TypeScript, Docker
 - Skills
 - Fame and money
 * How to start
-- Money
 - Bugreports
 - Spread the word
 - Help on chats/forums/StackOverflow
 - Patches and Pullrequests
+- Money
 * Obey the Open Source!
 - Twitter, Github, StackOverflow: @valentjedi
 - email: valentjedi@gmail.com
