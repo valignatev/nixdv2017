@@ -31,14 +31,14 @@ VSCode, Electron, TypeScript, Docker
 - Linux Kernel
 - Programming languages
 - Даже 1С−конфигурации!
-* How devs could benefit
-- Skills
-- Fame and money
 * How companies could benefit
 - Retain & find superior employees
 - Increased software quality & reliability
 - Shared development costs lowers overhead; Increases Profits
 - Still get to influence software direction, while effectively outsourcing some of your efforts
+* How devs could benefit
+- Skills
+- Fame and money
 * How to start
 - Money
 - Bugreports
