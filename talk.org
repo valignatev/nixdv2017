@@ -26,7 +26,7 @@ Tensorflow, Angular, Guava, Kubernetes
 ** Microsoft
 VSCode, Electron, TypeScript, Docker
 ** Facebook
- React , React Native , Flow , Atom
+ React, React Native, Flow, Atom
 * You all use open source
 - Linux Kernel
 - Programming languages
@@ -34,8 +34,7 @@ VSCode, Electron, TypeScript, Docker
 * How companies could benefit
 - Retain & find superior employees
 - Increased software quality & reliability
-- Shared development costs lowers overhead; Increases Profits
-- Still get to influence software direction, while effectively outsourcing some of your efforts
+- Shared development costs lowers overhead
 * How devs could benefit
 - Skills
 - Fame and money
