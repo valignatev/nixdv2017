@@ -1,0 +1,51 @@
+* Привет!
+- Twitter, Github, StackOverflow: @valentjedi
+- email: valentjedi@gmail.com
+- программист в ivelum
+- слайды: https://github.com/valentjedi/nixdv2017
+* Соцопрос
+- Программисты
+- Люди бизнеса
+- Кто еще？
+* Авторитетная цитата
+#+BEGIN_QUOTE
+That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously. -- Benjamin Franklin
+#+END_QUOTE
+* О чем всё это
+Опенсорс − это прибыльно
+* Почему ты не контрибутишь？
+** Программист
+- Нет времени
+- Боюсь показать свой код всему миру
+- Мне за это не платят． Так зачем？
+** Компании
+- Мы делаем деньги и не хотим тратить ресурсы на какие−то мифические альтруистические цели
+* Большие ребята что−то знают！
+** Google
+Tensorflow, Angular, Guava, Kubernetes
+** Microsoft
+VSCode, Electron, TypeScript, Docker
+** Facebook
+ React, React Native, Flow, Atom
+* Вы все используете опенсорс
+- Linux Kernel
+- Языки программирования
+- Даже 1С−конфигурации!
+* Что с этого компаниям？
+- Найти и удержать крутых сотрудников
+- Улучшить качество и надежность своего софта
+- Снизить цену на разработку
+* Что с этого программистам？
+- Скилы
+- Слава и деньги！
+* Как начать
+- Багрепорты
+- Говорить об этом
+- Помогать на форумах／чатах／StackOVerflow
+- Патчи и пуллреквесты
+- Деньги
+* Люби опенсорс!
+- Twitter, Github, StackOverflow: @valentjedi
+- email: valentjedi@gmail.com
+- программист в ivelum
+- слайды: https://github.com/valentjedi/nixdv2017
