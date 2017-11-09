@@ -22,23 +22,11 @@ Open source - pure profit!
 - We make money, we can't spend our resources on some mythical altruistic opensource.
 * Big companies know!
 ** Google
+Tensorflow, Angular, Guava, Kubernetes
 ** Microsoft
+VSCode, Electron, TypeScript, Docker
 ** Facebook
-* Google
-- Tensorflow
-- Angular
-- Guava
-- Kubernetes
-* Microsoft
-- VSCode
-- Electron
-- TypeScript
-- Docker
-* Facebook
-- React
-- React Native
-- Flow
-- Atom
+ React , React Native , Flow , Atom
 * You all use open source
 - Linux Kernel
 - Programming languages
