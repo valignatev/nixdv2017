@@ -11,8 +11,6 @@
 #+BEGIN_QUOTE
 That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously. -- Benjamin Franklin
 #+END_QUOTE
-* О чем всё это
-Опенсорс − это прибыльно
 * Почему ты не контрибутишь?
 ** Программист
 - Нет времени
@@ -20,6 +18,8 @@ That, as we enjoy great advantages from the inventions of others, we should be g
 - Мне за это не платят. Так зачем?
 ** Компании
 - Мы делаем деньги и не хотим тратить ресурсы на какие−то мифические альтруистические цели
+* О чем всё это
+Опенсорс − это прибыльно
 * Большие ребята что−то знают!
 ** Google
 Tensorflow, Angular, Guava, Kubernetes

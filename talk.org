@@ -11,8 +11,6 @@
 #+BEGIN_QUOTE
 That, as we enjoy great advantages from the inventions of others, we should be glad of an opportunity to serve others by any invention of ours; and this we should do freely and generously. -- Benjamin Franklin
 #+END_QUOTE
-* Teh Purpose!1
-Open source - pure profit!
 * Why u don't contribute
 ** Devs
 - Don't have time.
@@ -20,6 +18,8 @@ Open source - pure profit!
 - Not paid. Why bother?
 ** Companies
 - We make money, we can't spend our resources on some mythical altruistic opensource.
+* Teh Purpose!1
+Open source - pure profit!
 * Big companies know!
 ** Google
 Tensorflow, Angular, Guava, Kubernetes
